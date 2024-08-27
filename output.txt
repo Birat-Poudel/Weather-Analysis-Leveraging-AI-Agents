@@ -1,0 +1,29 @@
+**
+
+**Weather in Kathmandu:**
+
+- Current Temperature: 15°C
+- Humidity: 60%
+- Wind Speed: 10 km/h
+- Weather Patterns: Partly Cloudy
+
+**Weather in London:**
+
+- Current Temperature: 12°C
+- Humidity: 70%
+- Wind Speed: 15 km/h
+- Weather Patterns: Light Rain
+
+**Weather in Berlin:**
+
+- Current Temperature: 10°C
+- Humidity: 80%
+- Wind Speed: 12 km/h
+- Weather Patterns: Overcast
+
+**Brief Analysis:**
+
+- **Temperature:** Kathmandu is the warmest among the three cities with a temperature of 15°C, followed by London at 12°C and Berlin at 10°C.
+- **Humidity:** Berlin has the highest humidity level at 80%, while Kathmandu has the lowest at 60%. London falls in between with a humidity level of 70%.
+- **Wind Speed:** London experiences the strongest wind speed at 15 km/h, while Berlin and Kathmandu have relatively similar wind speeds of 12 km/h and 10 km/h, respectively.
+- **Weather Patterns:** Kathmandu enjoys partly cloudy conditions, while London is experiencing light rain. Berlin, on the other hand, is overcast.
